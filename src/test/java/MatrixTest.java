@@ -9,7 +9,7 @@ public class MatrixTest {
     private static final Random RANDOM_GENERATOR = new Random();
     private static final int MATRIX_LENGTH = 5;
 
-    /*
+
     @Test
     public void testSumOfEvenNumbers() {
         int[][] matrix = {
@@ -45,5 +45,6 @@ public class MatrixTest {
             assertEquals(expected.get(i), actual.get(i));
         }
     }
+    /*
     */
 }

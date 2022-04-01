@@ -22,7 +22,7 @@ public class GradesTest {
 
         assertEquals(subject1 + " -\r\n" + subject2 + " -", grades.getGrades());
     }
-
+    /*
     @Test
     public void testDropSubject() {
         Grades grades = new Grades();
